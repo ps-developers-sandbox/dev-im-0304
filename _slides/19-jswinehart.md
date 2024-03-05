@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Jason's Slide"
 ---
 
-Caption here
+my cat has a glorious rainbow tail
 
 ![cooler-octocat](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
 {: .center}
