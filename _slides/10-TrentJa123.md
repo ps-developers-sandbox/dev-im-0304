@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hello There
 
-![constructocat](https://octodex.github.com/images/constructocat2.jpg)
+![constructocat](https://media.tenor.com/WuOwfnsLcfYAAAAe/star-wars-obi-wan-kenobi.png)
 {: .center}
