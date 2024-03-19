@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Test for GITHUB Slide (training)
+
 
 ![skatetocat](https://octodex.github.com/images/skatetocat.png)
 {: .center}
